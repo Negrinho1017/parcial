@@ -1,0 +1,14 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mCambioDeDivisaTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcambiar 10 usd a cop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 28000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcambiar 10 eur a cop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 33000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcambiar 29700 cop a eur[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 9[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcambiar 14000 cop a eur[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcambiar 5 usd a eur[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcambiar 10 eur a usd[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return 12 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  12.5 was not equal to 12 (CambioDeDivisaTest.scala:46)[0m[0m

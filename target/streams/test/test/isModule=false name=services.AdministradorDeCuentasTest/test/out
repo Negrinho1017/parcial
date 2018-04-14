@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mAdministradorDeCuentasTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcrear cuenta[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return la cuenta[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mactivar cuenta[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return cuenta activa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mdesactivar cuenta[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return cuenta inactiva[0m[0m

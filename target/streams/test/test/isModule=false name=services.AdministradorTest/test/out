@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mAdministradorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 2000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo después de retirar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 1000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo después de consignar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 2111[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo después de transferir[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 1000 y 3000[0m[0m

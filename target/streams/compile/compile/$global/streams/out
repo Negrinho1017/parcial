@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/camilo/Documents/Banco/src/main/scala/Util/CambioDeDivisa.scala:14:45: comparing values of types domain.Divisa and Int using `==' will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    if(divisaInicial.id == 1 && divisaFinal == 2) copAUsd(valor)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

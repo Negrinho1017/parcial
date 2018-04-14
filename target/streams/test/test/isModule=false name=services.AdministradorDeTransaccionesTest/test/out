@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mAdministradorDeTransaccionesTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 2000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo después de retirar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 1000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo después de consignar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 2111[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo después de transferir[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 1000 y 3000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo de cuenta inactiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mretirar  de cuenta inactiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mconsignar a una cuenta inactiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtransferir a una cuenta inactiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mver saldo después de transferir de pesos a dolares[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 200 y 4800[0m[0m
